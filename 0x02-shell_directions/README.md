@@ -1,0 +1,1 @@
+En este proyecto estare trabajando el redireccionamiento y los filtron en la shell
