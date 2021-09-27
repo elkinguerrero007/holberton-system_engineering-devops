@@ -1,0 +1,1 @@
+En este proyecto estare trabajando en el redirecionamiento de los archivos en la shell
