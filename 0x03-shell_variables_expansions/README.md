@@ -1,0 +1,1 @@
+En este proyecto estare trabajando en el tema de variables y expansiones en la shell.
