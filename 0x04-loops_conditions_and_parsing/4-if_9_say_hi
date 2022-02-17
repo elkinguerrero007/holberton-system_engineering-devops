@@ -1,15 +1,13 @@
 #!/usr/bin/env bash
-# This script is displaying "Holberton School" 10 times
-# and in the nine print 'Hi'
-counter=0
-
-while [ $counter -le 10 ]
+# Write in console Best School 10 times, but for the 9th print "Hi"
+LIMIT=10
+i=1
+while [ "$i" -le "$LIMIT" ]
 do
-  if [ $counter -eq 9 ]
-  then
-    echo 'Hi'
-  else
-    echo 'Holberton School'
-  fi
-  ((counter++))
+	echo "Best School"
+	if [ "$i" -eq 9 ]
+	then
+		echo "Hi"
+	fi
+	((i+=1))
 done
