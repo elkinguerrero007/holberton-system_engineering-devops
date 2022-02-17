@@ -1,21 +1,24 @@
 #!/usr/bin/env bash
-# Write a Bash script that gives you information about the school file.
+# print if holbertonschool file exist
+result=$(find . -name holbertonschool)
 
-FILE="school"
-if [ -e "$FILE" ];
+if [ "$result" ]
 then
-	echo "$FILE file exists"
-        if [ -s "$FILE" ]; then
-	     	echo "school file is not empty"
-	else
-		echo "school file is empty"
-	fi
-	if [ -f "$FILE" ]; then
-	     	echo "school is a regular file"
-	fi
-else
-        echo "school file does not exist"
-fi
+    echo "holbertonschool file exists"
+    is_empty=$(find . -name holbertonschool -empty )
+    if [ "$is_empty" ]
+    then
+        echo 'holbertonschool file is empty'
+    else
+        echo 'holbertonschool file is not empty'
+    fi
+
+    is_regular=$(find . -name holbertonschool -type f )
+
+    if [ "$is_regular" ]
+    then
+        echo 'holbertonschool is a regular file'
+    fi
 else
     echo "holbertonschool file does not exist"
 fi
