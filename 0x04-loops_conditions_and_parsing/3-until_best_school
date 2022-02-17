@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-# 
+#!/usr/bin/env bash 
 LIMIT=10
 i=0
 until [[ i -eq LIMIT ]]
