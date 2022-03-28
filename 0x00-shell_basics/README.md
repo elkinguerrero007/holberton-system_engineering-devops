@@ -22,6 +22,10 @@
     
 🚀  [A guide tour](http://linuxcommand.org/lc3_lts0040.php)
 
+[A guide tour](http://linuxcommand.org/lc3_lts0040.php)
+
+## Built with 🛠️                                                                                                      
+  14 │ *  Emacs editor                                                                                                 
 ## * Example
 quinto@ubuntu:/tmp$ wc -l 12-file_type
 
