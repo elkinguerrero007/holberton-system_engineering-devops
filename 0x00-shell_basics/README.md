@@ -22,11 +22,13 @@
     
 🚀  [A guide tour](http://linuxcommand.org/lc3_lts0040.php)
 
-[A guide tour](http://linuxcommand.org/lc3_lts0040.php)
 
-## Built with 🛠️                                                                                                      
-  14 │ *  Emacs editor                                                                                                 
+## Built with 🛠️
+
+* Emacs editor
+  
 ## * Example
+
 quinto@ubuntu:/tmp$ wc -l 12-file_type
 
 2 12-file_type
@@ -39,4 +41,3 @@ quinto@ubuntu:/tmp$
 
 [Elkin guerrero 007](https://github.com/elkinguerrero007)
 
-[^1]: To say down here.
