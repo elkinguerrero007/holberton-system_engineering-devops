@@ -31,7 +31,7 @@
   
 
   
-## _Example_
+## *Example*
 
 quinto@ubuntu:/tmp$ wc -l 12-file_type
 
