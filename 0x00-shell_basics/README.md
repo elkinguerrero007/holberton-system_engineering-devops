@@ -26,6 +26,8 @@
 ## Built with 🛠️
 
 Emacs editor
+
+Ubuntu 20.4
   
 ## * Example
 
