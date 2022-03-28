@@ -25,11 +25,11 @@
 
 ## Built with 🛠️
 
-Emacs editor
+* Emacs editor
 
-Ubuntu 20.4
+* Ubuntu 20.4
   
-## * Example
+## Example
 
 quinto@ubuntu:/tmp$ wc -l 12-file_type
 
