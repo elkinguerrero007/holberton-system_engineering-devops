@@ -20,8 +20,8 @@
     help
     man
     
-[A guide tour](http://linuxcommand.org/lc3_lts0040.php)
-    
+🚀  [A guide tour](http://linuxcommand.org/lc3_lts0040.php)
+
 ## * Example
 quinto@ubuntu:/tmp$ wc -l 12-file_type
 
