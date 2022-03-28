@@ -21,6 +21,11 @@
     man
     
 [A guide tour](http://linuxcommand.org/lc3_lts0040.php)
+
+## Built with 🛠️                                                                                                      
+  14 │ * Visual studiocode-                                                                                                 
+  15 │ * Python-tutor                                                                                                       
+  16 │ * Zinjal          
     
 ## * Example
 quinto@ubuntu:/tmp$ wc -l 12-file_type
