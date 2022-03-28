@@ -5,26 +5,26 @@
 
 ### man or help:
 
--chmod
+- chmod
 
--sudo
+- sudo
 
--su
+- su
 
--chown
+- chown
 
--chgrp
+- chgrp
 
--id
+- id
 
--groups
+- groups
 
--whoami
+- whoami
 
--adduser
+- adduser
 
--useradd
+- useradd
 
--addgroup
+- addgroup
 
 [permission](http://linuxcommand.org/lc3_lts0090.php)
