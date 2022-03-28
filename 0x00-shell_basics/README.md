@@ -29,4 +29,4 @@ quinto@ubuntu:/tmp$ head -n 1 12-file_type
 
 quinto@ubuntu:/tmp$
 
-[elkin guerrero 007](https://github.com/elkinguerrero007)
+[Elkin guerrero 007](https://github.com/elkinguerrero007)
