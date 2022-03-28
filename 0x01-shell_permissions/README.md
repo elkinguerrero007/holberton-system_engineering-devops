@@ -17,4 +17,4 @@
 - useradd
 - addgroup
 
-[permission](http://linuxcommand.org/lc3_lts0090.php)
+ [permission](http://linuxcommand.org/lc3_lts0090.php)
