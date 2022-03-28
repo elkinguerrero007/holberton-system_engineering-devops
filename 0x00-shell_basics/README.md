@@ -5,20 +5,20 @@
 
 ### * man or help:
 
-    cd
-    ls
-    pwd
-    less
-    file
-    ln
-    cp
-    mv
-    rm
-    mkdir
-    type
-    which
-    help
-    man
+> cd
+> ls
+> pwd
+> less
+> file
+> ln
+> cp
+> mv
+> rm
+> mkdir
+> type
+> which
+> help
+> man
     
 🚀  [A guide tour](http://linuxcommand.org/lc3_lts0040.php)
 
