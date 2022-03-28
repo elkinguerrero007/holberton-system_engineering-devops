@@ -34,11 +34,11 @@
 ### Example
 
 
->quinto@ubuntu:/tmp$ wc -l 12-file_type
->2 12-file_type
->quinto@ubuntu:/tmp$ head -n 1 12-file_type 
->#!/bin/bash
->quinto@ubuntu:/tmp$
+> quinto@ubuntu:/tmp$ wc -l 12-file_type
+> 2 12-file_type
+> quinto@ubuntu:/tmp$ head -n 1 12-file_type 
+> #!/bin/bash
+> quinto@ubuntu:/tmp$
 
 [Elkin guerrero 007](https://github.com/elkinguerrero007)
 
