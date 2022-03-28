@@ -34,7 +34,7 @@
 ### Example
 
 
-> quinto@ubuntu:/tmp$ wc -l 12-file_type
+> _quinto@ubuntu:/tmp$ wc -l 12-file_type
 > 
 > 2 12-file_type
 > 
