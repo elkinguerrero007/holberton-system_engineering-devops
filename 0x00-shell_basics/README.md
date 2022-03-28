@@ -25,7 +25,7 @@
 
 ## Built with 🛠️
 
-* Emacs editor
+Emacs editor
   
 ## * Example
 
