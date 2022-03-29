@@ -4,7 +4,7 @@
 
 ### **_man or help:_** 👌
 
->> *echo
+>> * echo
 >> * cat
 >> * head
 >> * tail
