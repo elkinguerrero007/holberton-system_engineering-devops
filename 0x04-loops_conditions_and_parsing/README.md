@@ -32,12 +32,12 @@
 
 ### **_man or help_** 🤙
 
-- env
-- cut
-- for
-- while
-- until
-- if
+>- env
+>- cut
+>- for
+>- while
+>- until
+>- if
 
 
 ## **_More Info_**
