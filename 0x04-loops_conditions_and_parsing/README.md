@@ -27,7 +27,7 @@
 [loops,conditions and parsing](https://www.youtube.com/watch?v=BC2neyc5GcI)
 
 
-### man or help: 👌
+### _man or help: 👌
 
 - env
 - cut
