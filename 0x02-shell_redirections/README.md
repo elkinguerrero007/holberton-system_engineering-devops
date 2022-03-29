@@ -2,6 +2,22 @@
  
 ![shell](https://user-images.githubusercontent.com/85587286/160506094-7bbc8a0b-c085-4a05-b831-fc29e12e70de.jpeg)
 
+### man or help:
+
+- echo
+- cat
+- head
+- tail
+- find
+- wc
+- sort
+- uniq
+- grep
+- tr
+- rev
+- cut
+- passwd (5) (i.e. man 5 passwd)
+
 
 [Shell, I/O Redirection](http://linuxcommand.org/lc3_lts0070.php)
 
