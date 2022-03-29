@@ -22,3 +22,7 @@
 [Shell, I/O Redirection](http://linuxcommand.org/lc3_lts0070.php)
 
 [Special Characters](http://mywiki.wooledge.org/BashGuide/SpecialCharacters)
+
+[/etc/passwd/](http://manpages.ubuntu.com/manpages/trusty/man5/passwd.5.html)
+
+[/etc/shadow/](https://www.cyberciti.biz/faq/understanding-etcshadow-file/)
