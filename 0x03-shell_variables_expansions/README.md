@@ -36,21 +36,17 @@
 >   
 > * [Technical Writing](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2021/6/9112669886fd446a2aa3113c31319d1f468dc160.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220329%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220329T004832Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=777f3436303b02d2044e3f0995297f29ac2a1cb3fc03d79ea80975a6723447cb)
 
-~~~~
  
  ## **_Shell Initialization Files:_**
  
-~~~~
 
 > *  What are the /etc/profile file and the /etc/profile.d directory
 > 
 > * What is the ~/.bashrc file
 
-~~~~
 
 ## *_More Info:_*
 
-~~~~
 
 > * Read your /etc/profile, /etc/inputrc and ~/.bashrc files.
 >
@@ -62,3 +58,4 @@
 Note: You do not have to learn about awk, tar, bzip2, date, scp, ulimit, umask, or shell scripting, yet.
 
 ~~~~
+`This is code`
