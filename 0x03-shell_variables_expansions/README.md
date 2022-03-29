@@ -55,7 +55,6 @@
 
 ~~~~
 
-Note: You do not have to learn about awk, tar, bzip2, date, scp, ulimit, umask, or shell scripting, yet.
+Note: You do not have to learn about `awk`, `tar`, `bzip2`, `date`, `scp`, `ulimit`, `umask`, or shell scripting, yet.
 
 ~~~~
-`This is code`
