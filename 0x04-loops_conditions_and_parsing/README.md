@@ -1,9 +1,9 @@
-#  **_Loops, conditions and parsing_**
+#  **_Loops, conditions and parsing._**
 
 ![loops](https://user-images.githubusercontent.com/85587286/160511742-5d3fe3e8-521f-4ed7-8c3f-8e7ac4259890.png)
 
 
-## **_Built with_**🛠️
+## **_Built with:_** 🛠️
 
 ~~~~
 
@@ -15,7 +15,7 @@
 
 ## **_Resources_**
 
-### **_Read or watch_**  📑
+### **_Read or watch:_**   📑
 
 > * [Loops sample](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_01.html)
 >
