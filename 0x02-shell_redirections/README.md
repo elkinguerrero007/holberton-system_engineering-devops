@@ -35,3 +35,5 @@
 [/etc/passwd/](http://manpages.ubuntu.com/manpages/trusty/man5/passwd.5.html)
 
 [/etc/shadow/](https://www.cyberciti.biz/faq/understanding-etcshadow-file/)
+
+Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk.
