@@ -18,6 +18,12 @@
 - cut
 - passwd (5) (i.e. man 5 passwd)
 
+## Built with
+
+> Ubuntu 20.4
+> 
+> Emacs editor
+
 
 [Shell, I/O Redirection](http://linuxcommand.org/lc3_lts0070.php)
 
