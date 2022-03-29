@@ -1,4 +1,4 @@
-# *_Processes and signals_*
+# _Processes and signals_
 
 
 
