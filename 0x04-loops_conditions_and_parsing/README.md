@@ -1,4 +1,4 @@
-# * Loops, conditions and parsing
+#  *Loops, conditions and parsing*
 
 ![loops](https://user-images.githubusercontent.com/85587286/160511742-5d3fe3e8-521f-4ed7-8c3f-8e7ac4259890.png)
 
