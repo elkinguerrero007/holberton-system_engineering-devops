@@ -18,7 +18,7 @@
 > * cut
 > * passwd (5) (i.e. man 5 passwd)
 
-## **_Built with_** 🛠️
+## **_Built with:_** 🛠️
 
 > * Ubuntu 20.4 LTS
 > 
