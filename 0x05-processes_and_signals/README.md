@@ -15,7 +15,7 @@
 >> * trap
 
 
-## **_Resources:_*
+## **_Resources:_* 👈
 
 >> * [Linux PID](http://www.linfo.org/pid.html)
 >>
@@ -30,6 +30,6 @@
 >> * Emacs editor
 
 
-## **More Info:**
+## **More Info:** 🤙
 
 For those who want to know more and learn about all signals, check out this [article.](https://www.computerhope.com/unix/signals.htm)
