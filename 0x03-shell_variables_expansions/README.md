@@ -19,8 +19,8 @@
  
  
  - Ubuntu 20.4
- - Emacs editor
  - 
+ - Emacs editor
  
 ### Read or watch:
 
