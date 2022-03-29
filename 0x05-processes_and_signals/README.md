@@ -5,6 +5,16 @@
 ![kill](https://user-images.githubusercontent.com/85587286/160527675-0ca250d5-5f9c-403a-af17-1218ab4696ab.jpeg)
 
 
+## man or help:
+
+- ps
+- pgrep
+- pkill
+- kill
+- exit
+- trap
+
+
 ## *Resources
 
 [Linux PID](http://www.linfo.org/pid.html)
