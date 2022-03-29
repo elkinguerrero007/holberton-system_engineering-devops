@@ -4,38 +4,38 @@
 
 ### **_man or help:_** 👌
 
-> *echo
-> * cat
-> * head
-> * tail
-> * find
-> * wc
-> * sort
-> * uniq
-> * grep
-> * tr
-> * rev
-> * cut
-> * passwd (5) (i.e. man 5 passwd)
+>> *echo
+>> * cat
+>> * head
+>> * tail
+>> * find
+>> * wc
+>> * sort
+>> * uniq
+>> * grep
+>> * tr
+>> * rev
+>> * cut
+>> * passwd (5) (i.e. man 5 passwd)
 
 ## **_Built with:_** 🛠️
 
-> * Ubuntu 20.4 LTS
-> 
-> * Emacs editor
+>> * Ubuntu 20.4 LTS
+>> 
+>> * Emacs editor
 
 
 ## **_Resources:_**  📑
 
 
-> * [Shell, I/O Redirection](http://linuxcommand.org/lc3_lts0070.php)
->
-> * [Special Characters](http://mywiki.wooledge.org/BashGuide/SpecialCharacters)
->
-> * [/etc/passwd/](http://manpages.ubuntu.com/manpages/trusty/man5/passwd.5.html)
->
-> * [/etc/shadow/](https://www.cyberciti.biz/faq/understanding-etcshadow-file/)
+>> * [Shell, I/O Redirection](http://linuxcommand.org/lc3_lts0070.php)
+>>
+>> * [Special Characters](http://mywiki.wooledge.org/BashGuide/SpecialCharacters)
+>>
+>> * [/etc/passwd/](http://manpages.ubuntu.com/manpages/trusty/man5/passwd.5.html)
+>>
+>> * [/etc/shadow/](https://www.cyberciti.biz/faq/understanding-etcshadow-file/)
 
->
-> *Note: You do not have to learn about `fmt`, `pr`, `du`, `gzip`, `tar`, `lpr`, `sed` and `awk`.
-> 
+>>
+>> *Note: You do not have to learn about `fmt`, `pr`, `du`, `gzip`, `tar`, `lpr`, `sed` and `awk`.
+>> 
