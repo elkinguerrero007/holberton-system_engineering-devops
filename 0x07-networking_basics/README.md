@@ -2,7 +2,7 @@
 
 ![modelo osi](https://user-images.githubusercontent.com/85587286/160650434-122b7eac-db77-499a-9e97-a58463bf2a53.jpg)
 
-## **_Resources:_**
+## **_Resources:_** 👌
 
 ### **_Read or watch:_**  📑
 
@@ -26,7 +26,7 @@
 >> * [netstat]()
 >> * [ping]()
 
-## **_Built with:_**
+## **_Built with:_** 🛠️
 
 >> * Ubuntu 20.04 LTS
 >> 
