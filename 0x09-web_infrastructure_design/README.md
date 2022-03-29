@@ -1,6 +1,6 @@
 # **_Web infrastructure design_**
 
-## **_Concepts:** 👌
+## **_Concepts:_** 👌
 
 
 >> * [DNS](https://intranet.hbtn.io/concepts/12)
@@ -34,6 +34,6 @@
 ## **_Built with:_**  ✒️
 
 >> * Ubuntu 20.04 LTS
->> *
+>> 
 >> * Emacs editor
 
