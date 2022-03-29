@@ -15,7 +15,7 @@
 - trap
 
 
-## *Resources
+## *Resources*
 
 [Linux PID](http://www.linfo.org/pid.html)
 
