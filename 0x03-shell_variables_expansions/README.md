@@ -3,7 +3,7 @@
  ![expansion](https://user-images.githubusercontent.com/85587286/160509889-0ded45bf-3d15-4e5c-87ad-14925fff17e0.jpeg)
  
  
- ### man or help:
+ ### man or help: 👌
 
  - printenv
  - set
