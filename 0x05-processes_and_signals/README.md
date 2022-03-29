@@ -1,11 +1,11 @@
-# _Processes and signals
+# *Processes and signals*
 
 
 
 ![kill](https://user-images.githubusercontent.com/85587286/160527675-0ca250d5-5f9c-403a-af17-1218ab4696ab.jpeg)
 
 
-## man or help: 👌
+## *man or help:* 👌
 
 - ps
 - pgrep
@@ -30,6 +30,6 @@
 - Emacs editor
 
 
-## More Info
+## **More Info**
 
 For those who want to know more and learn about all signals, check out this [article.](https://www.computerhope.com/unix/signals.htm)
