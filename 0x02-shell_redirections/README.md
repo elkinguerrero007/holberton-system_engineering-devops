@@ -18,7 +18,7 @@
 - cut
 - passwd (5) (i.e. man 5 passwd)
 
-## Built with
+## Built with 🛠️
 
 > Ubuntu 20.4
 > 
