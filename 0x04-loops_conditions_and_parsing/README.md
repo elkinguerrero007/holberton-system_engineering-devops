@@ -41,4 +41,5 @@
 
 [Shellcheck](https://github.com/koalaman/shellcheck)
 
+
 - What is the advantage of using #!/usr/bin/env bash over #!/bin/bash
