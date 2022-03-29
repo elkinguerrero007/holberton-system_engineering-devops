@@ -20,7 +20,7 @@
  [permission](http://linuxcommand.org/lc3_lts0090.php)
  
 
-## *_Built whith_* 🛠️
+## *_Built with_* 🛠️
 
 
 >Ubuntu 20.4
