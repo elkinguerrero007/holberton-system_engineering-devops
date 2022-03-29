@@ -2,7 +2,7 @@
  
 ![shell](https://user-images.githubusercontent.com/85587286/160506094-7bbc8a0b-c085-4a05-b831-fc29e12e70de.jpeg)
 
-### man or help:
+### man or help: 👌
 
 - echo
 - cat
