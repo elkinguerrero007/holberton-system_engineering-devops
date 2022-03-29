@@ -11,7 +11,7 @@
 > * Emacs editor
 
 
-## **_Resources_**
+## **_Resources:_**
 
 ### **_Read or watch:_**   📑
 
