@@ -11,7 +11,7 @@
 >> * Emacs editor
 
 
-## **_Resources:_**
+## **_Resources:_** 👌
 
 ### **_Read or watch:_**   📑
 
@@ -38,7 +38,7 @@
 >> * if
 
 
-## **_More Info:_**
+## **_More Info:_**  👈
 
 [Shellcheck](https://github.com/koalaman/shellcheck)
 
