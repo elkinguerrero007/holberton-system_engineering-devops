@@ -7,9 +7,9 @@
 
 ~~~~
 
->- Ubuntu 20.4
->
->- Emacs editor
+> * Ubuntu 20.4
+> *
+> * Emacs editor
 
 ~~~~
 
