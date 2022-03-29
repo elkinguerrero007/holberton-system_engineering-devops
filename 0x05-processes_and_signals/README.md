@@ -1,6 +1,8 @@
-# Processes and signals
+# _Processes and signals
 
 
-![image](https://user-images.githubusercontent.com/85587286/160527035-79c1e1dc-077c-475e-8576-f88c09c42b70.png)
+
+
+![kill](https://user-images.githubusercontent.com/85587286/160527675-0ca250d5-5f9c-403a-af17-1218ab4696ab.jpeg)
 
 
