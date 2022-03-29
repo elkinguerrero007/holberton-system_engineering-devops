@@ -10,7 +10,7 @@
 - Emacs editor
 
 
-## Resources
+## * Resources
 
 ### Read or watch:
 
