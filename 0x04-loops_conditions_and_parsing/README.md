@@ -5,13 +5,11 @@
 
 ## **_Built with:_** 🛠️
 
-~~~~
 
 > * Ubuntu 20.4
 > *
 > * Emacs editor
 
-~~~~
 
 ## **_Resources_**
 
