@@ -1,9 +1,16 @@
-# _Loops, conditions and parsing
+# * Loops, conditions and parsing
 
 ![loops](https://user-images.githubusercontent.com/85587286/160511742-5d3fe3e8-521f-4ed7-8c3f-8e7ac4259890.png)
 
 
-## _Resources
+## Built with
+
+- Ubuntu 20.4
+
+- Emacs editor
+
+
+## Resources
 
 ### Read or watch:
 
@@ -17,7 +24,10 @@
 
 [Make your scripts portable](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html)
 
-### _man or help:
+[loops,conditions and parsing](https://www.youtube.com/watch?v=BC2neyc5GcI)
+
+
+### man or help:
 
 - env
 - cut
@@ -26,3 +36,9 @@
 - until
 - if
 
+
+## More Info
+
+[Shellcheck](https://github.com/koalaman/shellcheck)
+
+- What is the advantage of using #!/usr/bin/env bash over #!/bin/bash
