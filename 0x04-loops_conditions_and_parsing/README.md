@@ -15,7 +15,7 @@
 
 ## **_Resources_**
 
-### Read or watch:
+### **_Read or watch_**  📑
 
 > * [Loops sample](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_01.html)
 >
@@ -30,7 +30,7 @@
 > * [loops,conditions and parsing](https://www.youtube.com/watch?v=BC2neyc5GcI)
 
 
-### **_man or help_** 🤙
+### **_man or help:_** 🤙
 
 > *  env
 > * cut
@@ -40,10 +40,10 @@
 > * if
 
 
-## **_More Info_**
+## **_More Info:_**
 
 [Shellcheck](https://github.com/koalaman/shellcheck)
 
-> *
+> 
 > * What is the advantage of using #!/usr/bin/env bash over #!/bin/bash
-> *
+> 
