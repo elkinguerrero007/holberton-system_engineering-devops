@@ -3,7 +3,7 @@
 
 ![rtfm](https://user-images.githubusercontent.com/85587286/160321598-b149394f-c0c6-48ba-97ee-8d08d2f94ee1.png)
 
-### man or help 👌
+### _man or help_ 👌
 
 - cd
 - ls
@@ -23,7 +23,7 @@
 🚀  [A guide tour](http://linuxcommand.org/lc3_lts0040.php)
 
 
-## Built with 🛠️
+## _Built with_ 🛠️
 
 * Emacs editor
 
@@ -31,7 +31,7 @@
   
 
   
-### * Example
+### * _Example_
 
 
 > quinto@ubuntu:/tmp$ wc -l 12-file_type
