@@ -3,12 +3,12 @@
 ## **_Concepts:** 👌
 
 
->> * DNS(https://intranet.hbtn.io/concepts/12)
->> * Monitoring(https://intranet.hbtn.io/concepts/13)
->> * Web Server(https://intranet.hbtn.io/concepts/17)
->> * Network basics(https://intranet.hbtn.io/concepts/33)
->> * Load balancer(https://intranet.hbtn.io/concepts/46)
->> * Server(https://intranet.hbtn.io/concepts/67)
+>> * [DNS](https://intranet.hbtn.io/concepts/12)
+>> * [Monitoring](https://intranet.hbtn.io/concepts/13)
+>> * [Web Server](https://intranet.hbtn.io/concepts/17)
+>> * [Network basics](https://intranet.hbtn.io/concepts/33)
+>> * [Load balancer](https://intranet.hbtn.io/concepts/46)
+>> * [Server](https://intranet.hbtn.io/concepts/67)
 >> * [web infraestructure](https://youtu.be/lQNEW76KdYg)
 
 
@@ -16,12 +16,12 @@
 
 ### **_Read or watch:_** 🤙
 
->> * Network basics concept page()
->> * Server concept page()
->> * Web server concept page()
->> * DNS concept page()
->> * Load balancer concept page()
->> * Monitoring concept page()
+>> * Network basics concept page
+>> * Server concept page
+>> * Web server concept page
+>> * DNS concept page
+>> * Load balancer concept page
+>> * Monitoring concept page
 >> * [What is a database](https://intranet.hbtn.io/rltoken/woDFYUG0y_SrA79AaYbFCA)
 >> * [What’s the difference between a web server and an app server?](https://intranet.hbtn.io/rltoken/Nb8B47Y2D8SLqQMOKVoQyQ)
 >> * [DNS record types](https://intranet.hbtn.io/rltoken/ojwHUACZEtIWfI9M6i7c3g)
