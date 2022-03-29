@@ -7,12 +7,12 @@
 
 ## **_man or help:_** 👌
 
-> * ps
-> * pgrep
-> * pkill
-> * kill
-> * exit
-> * trap
+>> * ps
+>> * pgrep
+>> * pkill
+>> * kill
+>> * exit
+>> * trap
 
 
 ## **_Resources:_*
@@ -25,9 +25,9 @@
 
 ## **_Built with:_**  🛠️
 
-> * Ubuntu 20.4 LTS
+>> * Ubuntu 20.4 LTS
 
-> * Emacs editor
+>> * Emacs editor
 
 
 ## **More Info:**
