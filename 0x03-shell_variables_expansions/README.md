@@ -45,7 +45,7 @@
 >> * What is the `~/.bashrc` file
 
 
-## *_More Info:_*
+## *_More Info:_*  👈
 
 
 >> * Read your `/etc/profile`, `/etc/inputrc` and `~/.bashrc` files.
