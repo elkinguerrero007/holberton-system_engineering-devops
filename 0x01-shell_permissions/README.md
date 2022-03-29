@@ -5,17 +5,17 @@
 
 ### **_man or help:_** 👌
 
-> * chmod
-> * sudo
-> * su
-> * chown
-> * chgrp
-> * id
-> * groups
-> * whoami
-> * adduser
-> * useradd
-> * addgrou
+>> * chmod
+>> * sudo
+>> * su
+>> * chown
+>> * chgrp
+>> * id
+>> * groups
+>> * whoami
+>> * adduser
+>> * useradd
+>> * addgrou
 
 [permission](http://linuxcommand.org/lc3_lts0090.php)
  
@@ -23,6 +23,6 @@
 ## *_Built with_* 🛠️
 
 
-> * Ubuntu 20.4 LTS
->
-> * Emacs editor
+>> * Ubuntu 20.4 LTS
+>>
+>> * Emacs editor
