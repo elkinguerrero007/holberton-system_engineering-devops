@@ -50,5 +50,5 @@ quinto@ubuntu$ ./example.rb 127.0.0.a
 # **_More:_**  👈
 
 >> * All your script files must be executable
->> * The first line of all your Bash scripts should be exactly #!/usr/bin/env ruby
+>> * The first line of all your Bash scripts should be exactly `#!/usr/bin/env ruby`
 >> * All your regex must be built for the Oniguruma library
