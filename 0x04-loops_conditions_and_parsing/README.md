@@ -1,16 +1,19 @@
-#  *Loops, conditions and parsing*
+#  **_Loops, conditions and parsing_**
 
 ![loops](https://user-images.githubusercontent.com/85587286/160511742-5d3fe3e8-521f-4ed7-8c3f-8e7ac4259890.png)
 
 
-## Built with
+## **_Built with_**🛠️
+
+~~~~
 
 - Ubuntu 20.4
 
 - Emacs editor
 
+~~~~
 
-## * Resources
+## **_Resources_**
 
 ### Read or watch:
 
@@ -27,7 +30,7 @@
 [loops,conditions and parsing](https://www.youtube.com/watch?v=BC2neyc5GcI)
 
 
-### _man or help: 👌
+### **_man or help_** 🤙
 
 - env
 - cut
@@ -37,7 +40,7 @@
 - if
 
 
-## More Info
+## **_More Info_**
 
 [Shellcheck](https://github.com/koalaman/shellcheck)
 
