@@ -38,6 +38,8 @@
 
 🚀  [![A guide tour](http://linuxcommand.org/lc3_lts0040.php)
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](http://linuxcommand.org/lc3_lts0040.php)
+
 
 ## *_Built with:_* 🛠️
 
