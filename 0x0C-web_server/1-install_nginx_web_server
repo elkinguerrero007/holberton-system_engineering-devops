@@ -6,7 +6,7 @@ sudo apt-get -y update
 ### Install nginx.
 sudo apt-get -y install nginx
 ### Change de defaul content of index.html for nginx.
-echo "Hello World" > index.html
+echo "Gracias por la sangria le quedo muy rica!!!" > index.html
 # send the file to new directory
 sudo mv index.html /var/www/html
 ### Start service nginx.
