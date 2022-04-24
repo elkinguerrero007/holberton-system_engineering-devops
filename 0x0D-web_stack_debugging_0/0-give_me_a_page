@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # Run the apache daemon
-service apache2 start
+sudo service apache2 start
+
