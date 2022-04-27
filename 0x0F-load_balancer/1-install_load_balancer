@@ -10,8 +10,8 @@ CONTENT="
     	default_backend backend_cluster
 	backend backend_cluster
    	balance roundrobin
-   	server web-0 104.196.45.214:80
-   	server web-1 18.208.212.40:80"
+   	server web-0 35.237.48.11:80
+   	server web-1 184.72.75.112:80"
 
 echo "$CONTENT" >>"$HAPROXY_CONFIG"
 # restart service with new config
