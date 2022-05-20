@@ -24,4 +24,3 @@ if __name__ == "__main__":
     else:
         print("usage: {} <user_id>".format(argv[0]))
         exit(1)
-        
