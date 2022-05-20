@@ -29,4 +29,3 @@ if __name__ == "__main__":
             for task in completedTasks:
                 title = task.get("title")
                 print("\t {}".format(title))
-                
