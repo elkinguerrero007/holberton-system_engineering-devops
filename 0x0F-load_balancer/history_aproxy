@@ -1,0 +1,287 @@
+ ls
+    2  clear
+    3  service haproxy
+    4  mv /etc/haproxy/haproxy.cfg{,.original}
+    5  sudo mv /etc/haproxy/haproxy.cfg{,.original}
+    6  sudo cp /etc/haproxy/haproxy.cfg.original /etc/haproxy/haproxy.cfg
+    7  cd /etc/haproxy/
+    8  ls
+    9  cat haproxy.cfg
+   10  ls
+   11  cd
+   12  cd /etc/haproxy/
+   13  ls
+   14  emacs haproxy.cfg
+   15  sudo apt-get update
+   16  sudo apt-get install emacs
+   17  clear
+   18  emacs haproxy.cfg
+   19  sudo emacs haproxy.cfg
+   20  sudo service haproxy start 
+   21  ssh -v ubuntu@54.163.6.89
+   22  clear
+   23  ls
+   24  sudo service haproxy restart 
+   25  sudo service haproxy status 
+   26  clear
+   27  cd
+   28  cd /etc/
+   29  ls
+   30  cd haproxy/
+   31  ls
+   32  cd ..
+   33  ls
+   34  cd default/
+   35  ls
+   36  cat haproxy
+   37  cd ..
+   38  ls
+   39  cd haproxy/
+   40  ls
+   41  rm *~
+   42  sudo rm *~
+   43  ls
+   44  cat haproxy.cfg
+   45  sudo emacs haproxy.cfg
+   46  sudo service haproxy restart 
+   47  cd
+   48  exit
+   49  clear
+   50  cd /etc/haproxy/
+   51  ls
+   52  cat haproxy.cfg
+   53  clear
+   54  sudo apt-get update
+   55  sudo apt-get install certbot
+   56  clear
+   57  sudo service haproxy stop
+   58  netstat -na | grep ':80.*LISTEN'
+   59  sudo apt install net-tools
+   60  netstat -na | grep ':80.*LISTEN'
+   61  sudo certbot certonly --standalone
+   62  clear
+   63  haproxy -vv
+   64  clear
+   65  sudo apt-get update
+   66  sudo apt-get upgrade
+   67  sudo apt-get install cerbot
+   68  sudo service haproxy stop
+   69  netstat -na | grep ':80.*LISTEN'
+   70  sudo cerbot certonly --standalone
+   71  cerbot certonly --standalone
+   72  sudo apt-get install cerbot
+   73  sudo cerbot certonly --standalone
+   74  cerbot -v
+   75  sudo apt-get install certbot
+   76  cerbot -v
+   77  sudo apt-get install certbot
+   78  sudo apt-get update
+   79  cerbot -v
+   80  sudo apt-get upgrade
+   81  sudo apt-get install certbot
+   82  cerbot -v
+   83  certbot -V
+   84  Fuente: https://www.enmimaquinafunciona.com/pregunta/150965/como-saber-que-version-de-certbot-esta-instalada
+   85  certbot --version
+   86  Fuente: https://www.enmimaquinafunciona.com/pregunta/150965/como-saber-que-version-de-certbot-esta-instalada
+   87  sudo certbot certonly --standalone
+   88  clear
+   89  clear
+   90  sudo certbot certonly --standalone
+   91  sudo apt-get update
+   92  sudo apt-get upgrade
+   93  sudo certbot certonly --standalone
+   94  sudo service certbot stop
+   95  sudo certbot certonly --standalone
+   96  sudo service haproxy stop
+   97  netstat -na | grep ':80.*LISTEN'
+   98  sudo certbot certonly --standalone
+   99  ps -ef | grep certb
+  100  kill 115567
+  101  sudo kill 115567
+  102  sudo kill 115568
+  103  ps -ef | grep certb
+  104  sudo certbot certonly --standalone
+  105  clear
+  106  sudo service haproxy stop
+  107  netstat -na | grep ':80.*LISTEN'
+  108  sudo certbot certonly --standalone
+  109  clear
+  110  sudo apt-get update
+  111  sudo apt-get upgrade
+  112  clear
+  113  sudo service haproxy stop
+  114  netstat -na | grep ':80.*LISTEN'
+  115  sudo certbot certonly --standalone
+  116  clear
+  117  sudo certbot certonly --standalone
+  118  clear
+  119  clear
+  120  sudo ls /etc/letsencrypt/live
+  121  sudo ls /etc/letsencrypt/live/miapp.tech
+  122  sudo mkdir -p /etc/haproxy/certs
+  123  cd /etc/haproxy/certs/
+  124  ls
+  125  clear
+  126  DOMAIN='www.miapp.tech'
+  127  sudo -E bash -c 'cat
+  128  /etc/letsencrypt/live/$DOMAIN/fullchain.pem
+  129  /etc/letsencrypt/live/$DOMAIN/privkey.pem
+  130  /etc/haproxy/certs/$DOMAIN.pem'
+  131  sudo chmod -R go-rwx
+  132  sudo chmod -R go-rwx /etc/haproxy/certs/
+  133  sudo emacs /etc/haproxy/haproxy.cfg
+  134  cd /etc/haproxy/certs
+  135  sudo cd /etc/haproxy/certs
+  136  sudo cd /etc/haproxy
+  137  sudo cd /etc/haproxy/
+  138  cd /etc/haproxy/certs/
+  139  sudo cd /etc/haproxy/certs/
+  140  cd /etc/
+  141  cd haproxy/
+  142  cd certs/
+  143  sudo emacs certs/
+  144  cd certs/
+  145  sudo cd certs/
+  146  ls
+  147  cd certs/
+  148  ls
+  149  cd certs/
+  150  sudo certs
+  151  sudo cd certs
+  152  clear
+  153  sudo emacs /etc/haproxy/haproxy.cfg
+  154  sudo service haproxy start
+  155  haproxy -f /etc/haproxy/haproxy.cfg -c
+  156  cd /etc/haproxy/
+  157  ls
+  158  emacs haproxy.cfg
+  159  sudo emacs haproxy.cfg
+  160  haproxy -f /etc/haproxy/haproxy.cfg -c
+  161  sudo emacs haproxy.cfg
+  162  haproxy -f /etc/haproxy/haproxy.cfg -c
+  163  sudo emacs haproxy.cfg
+  164  haproxy -f /etc/haproxy/haproxy.cfg -c
+  165  sudo emacs haproxy.cfg
+  166  haproxy -f /etc/haproxy/haproxy.cfg -c
+  167  clear
+  168  haproxy -f /etc/haproxy/haproxy.cfg -c
+  169  sudo service start nginx
+  170  sudo service nginx start 
+  171  ls
+  172  sudo emacs haproxy.cfg
+  173  sudo service nginx restart 
+  174  clear
+  175  ls
+  176  cd certs/
+  177  sudo cd certs/
+  178  cd certs/
+  179  sudo chmod -R go-rwx /etc/haproxy/certs/
+  180  sudo emacs haproxy.cfg
+  181  clear
+  182  ls
+  183  ll
+  184  la -la
+  185  cd certs/
+  186  sudo chmod a+x certs/
+  187  cd certs/
+  188  ls
+  189  sudo ls
+  190  sudo chmod -R go-rwx /etc/haproxy/certs/
+  191  sudo emacs haproxy.cfg
+  192  haproxy -f /etc/haproxy/haproxy.cfg -c
+  193  cd ..
+  194  clear
+  195  haproxy -f /etc/haproxy/haproxy.cfg -c
+  196  emacs haproxy.cfg
+  197  clear
+  198  cd /etc/haproxy/
+  199  ls
+  200  cd certs/
+  201  cd
+  202  sudo service haproxy stop
+  203  netstat -na | grep ':80.*LISTEN'
+  204  sudo certbot certonly --standalone
+  205  sudo ls /etc/letsencrypt/live/www.miapp.tech
+  206  sudo DOMAIN='www.miapp.tech' sudo -E bash -c 'cat /etc/letsencrypt/live/$DOMAIN/fullchain.pem /etc/letsencrypt/live/$DOMAIN/privkey.pem > /etc/haproxy/certs/$DOMAIN.pem'
+  207  sudo chmod -R go-rwx /etc/haproxy/certs
+  208  cd /etc/haproxy/certs/
+  209  cd /etc/haproxy
+  210  sudo chmod 700 certs/
+  211  cd certs/
+  212  sudo cd certs/
+  213  sudo chmod 777 certs/
+  214  cd certs/
+  215  ls
+  216  ll
+  217  cd ..
+  218  ls
+  219  sudo emacs haproxy.cfg 
+  220  haproxy -f /etc/haproxy/haproxy.cfg -c
+  221  sudo emacs haproxy.cfg 
+  222  cd certs/
+  223  ls
+  224  sudo chmod 600 www.miapp.tech.pem 
+  225  haproxy -f /etc/haproxy/haproxy.cfg -c
+  226  ls
+  227  sudo chmod 777 www.miapp.tech.pem 
+  228  haproxy -f /etc/haproxy/haproxy.cfg -c
+  229  sudo service haproxy start
+  230  cd
+  231  clear
+  232  cd /etc/haproxy/
+  233  sudo emacs haproxy.cfg
+  234  cd
+  235  sudo service haproxy restar
+  236  sudo service haproxy restart
+  237  clear
+  238  cat /etc/haproxy/haproxy.cfg
+  239  clear
+  240  exit
+  241  clear
+  242  ssh -v ubuntu@184.72.75.112
+  243  clear
+  244  ls
+  245  clear
+  246  emacs apikey
+  247  ls
+  248  clear
+  249  cat apikey 
+  250  emacs apikey
+  251  clear
+  252  emacs apikey
+  253  clear
+  254  ls
+  255  ll
+  256  cd /etc/
+  257  cd haproxy/
+  258  ls
+  259  sudo emacs haproxy.cfg
+  260  cat haproxy.cfg
+  261  cd
+  262  clear
+  263  curl -sI 184.72.75.112 | grep X-Served-By
+  264  cd /var/
+  265  cd www
+  266  ls
+  267  cd
+  268  clear
+  269  ls
+  270  cd /var/
+  271  cd www
+  272  mkdir www
+  273  sudo mkdir www
+  274  clear
+  275  ls
+  276  cd www/
+  277  sudo mkdir html
+  278  cd html/
+  279  sudo echo "Holberton School" > index.html
+  280  ls
+  281  sudo touch index.html
+  282  sudo echo "Holberton School" > index.html
+  283  sudo chmod 777 index.html
+  284  clear
+  285  ls
+  286  sudo echo "Holberton Schooooooool" > index.html
+  287  sudo service nginx restart
